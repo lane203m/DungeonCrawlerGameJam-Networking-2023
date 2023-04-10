@@ -1,4 +1,4 @@
-# DungeonCrawlerGameJam-Networking-2023
+# Dungeon Crawler GameJam 2023: Networking
 This is a synthwave - inspired dungeon crawler, with a unique weapon experience.
 
 
